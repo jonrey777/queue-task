@@ -1,0 +1,11 @@
+{
+  "name": "queue-task",
+  "version": "1.0.0",
+  "description": "Task Queueing - push , wait and process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Rey Galera",
+  "license": "ISC"
+}
