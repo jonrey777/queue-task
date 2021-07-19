@@ -8,5 +8,11 @@
   },
   "author": "Jon Rey Galera",
   "license": "ISC",
-  "dependencies": {}
+  "keywords": [
+    "queue",
+    "task",
+    "enqueue",
+    "fifo",
+    "job"
+  ]
 }

@@ -5,7 +5,7 @@ Task Queueing - push , wait and process
 ## Install
 
 ```
-$ npm install p-queue
+$ npm install queue-task
 ```
 
 ## Usage
