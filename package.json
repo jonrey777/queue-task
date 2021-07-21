@@ -1,5 +1,5 @@
 {
-  "name": "queue-task",
+  "name": "ar-queue-task",
   "version": "1.0.0",
   "description": "Task Queueing - push , wait and process",
   "main": "index.js",

@@ -1,17 +1,17 @@
 # queue-task
-Task Queueing - push , wait and process
-
+Task Queueing - push , wait and process.
+All task will store in an array
 
 ## Install
 
 ```
-$ npm install queue-task
+$ npm install ar-queue-task
 ```
 
 ## Usage
 
 ```js
-const QueueTask = require('queue-task');
+const QueueTask = require('ar-queue-task');
 
 const queue = QueueTask.work();
 
